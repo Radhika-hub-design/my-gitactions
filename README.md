@@ -1,3 +1,4 @@
 Radhika-hub-design
-my-gitactions
+This is my First Git Repository.
+<br>
 Author - Radhika
